@@ -1,0 +1,14 @@
+.sidebar{
+    z-index: -1;
+    top: 0px;
+    position: absolute;
+    width: 240px;
+    left: -240px;
+    height: 100vh;
+    background: #202020;
+    color: white;
+    transition: all ease-in-out .4s;
+}
+.open{
+    left: 0;
+}

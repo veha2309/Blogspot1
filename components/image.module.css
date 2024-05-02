@@ -1,0 +1,7 @@
+.cover{
+    margin-top: 100px;
+    box-shadow: inset 0px 0px 100px 10px white;
+}
+.image{
+    box-shadow: inset 0px 0px 10px 10px white;
+}
